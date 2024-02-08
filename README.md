@@ -6,7 +6,7 @@ This repository contains the final project for the Artificial Intelligence Cours
 
 ## Professor
 - Dr. Mohammadreza Mohammadi
-- 
+  
 ## Group Members
 - MohammadAli Khosorabadi
 
